@@ -2,7 +2,8 @@
 Database Manager for Windows
 
 
-=========================================================================
+================================================================================
+
 Tool can be used for: 
 
 1. Starting and stopping databases on Windows Server/Workstation
